@@ -2,5 +2,10 @@
     {
         "package": "duckdb",
         "url": "https://github.com/duckdb/duckdb-r"
+    },
+    {
+        "package": "duckdb.1.4",
+        "url": "https://github.com/duckdb/duckdb-r",
+        "branch": "v1.4-andium"
     }
 ]
