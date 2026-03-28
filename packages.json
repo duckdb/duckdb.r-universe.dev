@@ -7,5 +7,10 @@
         "package": "duckdb.1.4",
         "url": "https://github.com/duckdb/duckdb-r",
         "branch": "v1.4-andium-lts"
+    },
+    {
+        "package": "duckdb.1.4.dev",
+        "url": "https://github.com/krlmlr/duckdb-r",
+        "branch": "v1.4-andium-dev"
     }
 ]
