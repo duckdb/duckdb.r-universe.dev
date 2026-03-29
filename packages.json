@@ -12,5 +12,15 @@
         "package": "duckdb.1.4.dev",
         "url": "https://github.com/krlmlr/duckdb-r",
         "branch": "v1.4-andium-dev"
+    },
+    {
+        "package": "duckdb.1.5.dev",
+        "url": "https://github.com/krlmlr/duckdb-r",
+        "branch": "v1.5-variegata-dev"
+    },
+    {
+        "package": "duckdb.dev",
+        "url": "https://github.com/krlmlr/duckdb-r",
+        "branch": "main-dev"
     }
 ]
