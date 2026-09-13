@@ -19,6 +19,11 @@
         "branch": "v1.5-variegata-green"
     },
     {
+        "package": "duckdb.2.0.dev",
+        "url": "https://github.com/krlmlr/duckdb-r",
+        "branch": "v2.0-cyanoptera-green"
+    },
+    {
         "package": "duckdb.dev",
         "url": "https://github.com/krlmlr/duckdb-r",
         "branch": "main-green"
